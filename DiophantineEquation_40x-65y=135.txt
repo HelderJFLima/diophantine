@@ -1,0 +1,13 @@
+Equation:
+
+40x - 65y = 135
+
+
+Solution:
+
+x = 5 + 13t
+
+y = 1 + 8t
+
+where t is a natural number.
+

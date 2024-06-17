@@ -1,0 +1,13 @@
+Equation:
+
+3x + 5y = 50
+
+
+Solution:
+
+x = 5t
+
+y = 10 - 3t
+
+where t is a natural number.
+
